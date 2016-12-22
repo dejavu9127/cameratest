@@ -1,0 +1,2 @@
+# cameratest
+check get stream
